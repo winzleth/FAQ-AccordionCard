@@ -179,8 +179,6 @@ footer {margin: 50px auto;}
   .spOnly {display: block;}
 	.pcOnly {display: none;}
 
-  body {height: 100%;}
-
   .contentWrap {
     position: relative;
     top: 0;
